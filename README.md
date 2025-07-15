@@ -30,6 +30,5 @@ Worked in a multidisciplinary team, building internal tools and mentoring junior
 - [GitHub Projects](https://github.com/pederseo-dev)
 
 ---
-![Visitors](https://komarev.com/ghpvc/?username=pederseo-dev)
 ![Olaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pederseo-dev&show_icons=true&theme=react)
 
