@@ -30,5 +30,3 @@ Worked in a multidisciplinary team, building internal tools and mentoring junior
 - [GitHub Projects](https://github.com/pederseo-dev)
 
 ---
-
-> "I enjoy building things from scratch and turning boring problems into fun, creative solutions."
