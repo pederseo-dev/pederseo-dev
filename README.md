@@ -11,12 +11,6 @@ I'm a software developer who enjoys building things from scratch and transformin
 - **UI/UX**: Rive animations + Figma for designing clean, interactive experiences
 - **Infra**: Docker, VPN tunnels, multi-database systems
 
-## 👨‍💻 Experience
-
-- **Penguin Infrastructure** – Software Developer (2025 - Present)  
-- **Penguin Academy** – Coach & Mentor (2025)  
-Worked in a multidisciplinary team, building internal tools and mentoring junior developers.
-
 ## 🧠 Currently Exploring
 
 - React Native advanced features  
