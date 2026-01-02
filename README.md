@@ -5,11 +5,11 @@ I'm a software developer who enjoys building things from scratch and transformin
 ## 🔧 What I do
 
 - **Fullstack Development**: React, React Native, Node.js, FastAPI, Flask
-- **Mobile Applications**: Android & iOS using Expo and P2P tech like Holepunch
+- **Mobile Applications**: Android & iOS
 - **Dashboards & Real-time systems**: Data-driven UIs for operational and financial insights
 - **Open Source**: Creator of [magicdef](https://www.npmjs.com/package/magicdef) – a JavaScript library published on npm
 - **UI/UX**: Rive animations + Figma for designing clean, interactive experiences
-- **Infra**: Docker, VPN tunnels, multi-database systems
+- **Infra**: Docker, multi-database systems
 
 ## 🧠 Currently Exploring
 
