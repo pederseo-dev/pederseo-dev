@@ -23,6 +23,10 @@ I'm a software developer who enjoys building things from scratch and transformin
 - [npm: magicdef](https://www.npmjs.com/package/magicdef)
 - [GitHub Projects](https://github.com/pederseo-dev)
 
+## Check my proyects
+- [PYMAD-SCAPE](https://github.com/pederseo-dev/py_mad_scape)
+- [magicdef](https://www.npmjs.com/package/magicdef)
+
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=pederseo-dev)
 
