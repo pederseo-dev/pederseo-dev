@@ -22,12 +22,12 @@ I'm a software developer who enjoys building things from scratch and transformin
 ## 🌍 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/olaf-pedersen-870a2b30b/)
-- [npm: magicdef](https://www.npmjs.com/package/magicdef)
 - [GitHub Projects](https://github.com/pederseo-dev)
 
 ## Check my proyects
 - [PYMAD-SCAPE](https://github.com/pederseo-dev/py_mad_scape)
 - [magicdef](https://www.npmjs.com/package/magicdef)
+- [Dayanara](https://pypi.org/project/dayanara/)
 
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=pederseo-dev)
