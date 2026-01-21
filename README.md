@@ -7,7 +7,9 @@ I'm a software developer who enjoys building things from scratch and transformin
 - **Fullstack Development**: React, React Native, Node.js, FastAPI, Flask
 - **Mobile Applications**: Android & iOS
 - **Dashboards & Real-time systems**: Data-driven UIs for operational and financial insights
-- **Open Source**: Creator of [magicdef](https://www.npmjs.com/package/magicdef) – a JavaScript library published on npm and [Dayanara]([https://www.npmjs.com/package/magicdef]https://pypi.org/project/dayanara/) - a minimal peer-to-peer networking protocol that lets you build distributed applications
+- **Open Source**:
+- - [magicdef](https://www.npmjs.com/package/magicdef) – a JavaScript library published on npm
+- - [Dayanara]([https://www.npmjs.com/package/magicdef]https://pypi.org/project/dayanara/) - a Python library published on pypi
 - **UI/UX**: Rive animations + Figma for designing clean, interactive experiences
 - **Infra**: Docker, multi-database systems
 
