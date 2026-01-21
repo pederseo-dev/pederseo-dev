@@ -9,7 +9,7 @@ I'm a software developer who enjoys building things from scratch and transformin
 - **Dashboards & Real-time systems**: Data-driven UIs for operational and financial insights
 - **Open Source**:
 - - [magicdef](https://www.npmjs.com/package/magicdef) – a JavaScript library published on npm
-- - [Dayanara]([https://www.npmjs.com/package/magicdef]https://pypi.org/project/dayanara/) - a Python library published on pypi
+- - [Dayanara](https://pypi.org/project/dayanara/) - a Python library published on pypi
 - **UI/UX**: Rive animations + Figma for designing clean, interactive experiences
 - **Infra**: Docker, multi-database systems
 
