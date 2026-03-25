@@ -10,6 +10,7 @@ I'm a software developer who enjoys building things from scratch and transformin
 - **Open Source**:
 - - [magicdef](https://www.npmjs.com/package/magicdef) – a JavaScript library published on npm
 - - [Dayanara](https://pypi.org/project/dayanara/) - a Python library published on pypi
+- - [CalendGüi](https://penguin-calendar.github.io/CalendGui) - Community platform for scheduling Penguin Academy evaluations
 - **UI/UX**: Rive animations + Figma for designing clean, interactive experiences
 - **Infra**: Docker, multi-database systems
 
