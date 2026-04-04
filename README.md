@@ -1,70 +1,59 @@
 <div align="center">
 
-<br>
-
 # Hi there, I'm Olaf
 
-**Software developer who enjoys building things from scratch**  
-*and transforming technical challenges into fun, meaningful experiences.*
+**Software Engineer focused on building scalable and user-friendly applications**  
+*I enjoy turning complex problems into simple and meaningful solutions.*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olaf-pedersen-870a2b30b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pederseo-dev.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olaf-pedersen-870a2b30b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pederseo-dev)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/magicdef)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/dayanara/)
+
 
 </div>
 
 ---
 
-## 🔧 What I do
+## Skills & Expertise
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**Frontend & Mobile**
+**Frontend**
+- HTML · CSS · JavaScript
 - React · React Native
-- Android & iOS
-- Rive animations · Figma
+- UI/UX (Figma, Rive)
 
 </td>
+
 <td valign="top" width="50%">
 
-**Backend & Infra**
+**Backend & APIs**
 - Node.js · FastAPI · Flask
-- Docker · Multi-database systems
+- API design & integrations
+- System architecture
 
 </td>
 </tr>
-</table>
 
----
-
-## 📦 Open Source
-
-<table>
 <tr>
-<td align="center" width="33%">
+<td valign="top" width="50%">
 
-**[magicdef](https://www.npmjs.com/package/magicdef)**  
-![npm](https://img.shields.io/npm/v/magicdef?color=CB3837&logo=npm&logoColor=white)  
-JavaScript library on npm
-
-</td>
-<td align="center" width="33%">
-
-**[Dayanara](https://pypi.org/project/dayanara/)**  
-![PyPI](https://img.shields.io/pypi/v/dayanara?color=3775A9&logo=pypi&logoColor=white)  
-Python library on PyPI
+**Database**
+- PostgreSQL · MySQL · SQLite
+- MongoDB · Firestore
 
 </td>
-<td align="center" width="33%">
 
-**[CalendGüi](https://penguin-calendar.github.io/CalendGui)**  
-![status](https://img.shields.io/badge/status-live-4CAF50)  
-Community scheduling platform
+<td valign="top" width="50%">
+
+**Tools & Workflow**
+- Git · Docker
+- Supabase
+- DBeaver · MongoDB Compass · pgAdmin
 
 </td>
 </tr>
@@ -72,26 +61,42 @@ Community scheduling platform
 
 ---
 
-## 🧠 Currently Exploring
+## Focus
 
-- React Native advanced features
-- Building tools for developers (Python/JS libraries)
-- System architecture and data pipelines
+- Building developer tools (Python & JavaScript)
+- Scalable backend systems
+- Cross-platform applications
+
+---
+
+## Work
+
+Check out my portfolio for selected projects and case studies.
 
 ---
 
-## 🚀 Projects
+## Currently Exploring
 
-| Project | Description |
-|---|---|
-| [PYMAD-SCAPE](https://github.com/pederseo-dev/py_mad_scape) | 🐍 Python project |
-| [magicdef](https://www.npmjs.com/package/magicdef) | 📦 JS utility library |
-| [Dayanara](https://pypi.org/project/dayanara/) | 🧬 Python library |
+- Advanced React Native patterns
+- Backend architecture & system design
+- Data pipelines
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
+<!-- Visitors -->
 ![Visitors](https://komarev.com/ghpvc/?username=pederseo-dev&style=for-the-badge&color=0A66C2)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pederseo-dev&show_icons=true&theme=radical&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pederseo-dev&layout=compact&theme=radical&hide_border=true)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=pederseo-dev&theme=radical&hide_border=true)
 
 </div>
