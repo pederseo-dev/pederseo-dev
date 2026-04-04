@@ -2,7 +2,7 @@
 
 <br>
 
-# Hi there, I'm Olaf 👋
+# Hi there, I'm Olaf
 
 **Software developer who enjoys building things from scratch**  
 *and transforming technical challenges into fun, meaningful experiences.*
@@ -35,7 +35,6 @@
 **Backend & Infra**
 - Node.js · FastAPI · Flask
 - Docker · Multi-database systems
-- Dashboards & Real-time UIs
 
 </td>
 </tr>
