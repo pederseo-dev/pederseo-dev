@@ -18,37 +18,38 @@
 
 ## Skills & Expertise
 
+## Skills & Expertise
+
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-**Frontend**
+**Frontend & UI**
 - HTML · CSS · JavaScript
 - React · React Native
 - UI/UX (Figma, Rive)
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-**Backend & APIs**
+**Backend & Cloud**
 - Node.js · FastAPI · Flask
 - API design & integrations
+- Firebase Auth · Cloud Functions · Google Apps Script
 - System architecture
 
 </td>
-</tr>
 
-<tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-**Database**
+**Database & Storage**
 - PostgreSQL · MySQL · SQLite
 - MongoDB · Firestore
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
 **Tools & Workflow**
 - Git · Docker
