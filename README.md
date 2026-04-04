@@ -83,20 +83,11 @@ Check out my portfolio for selected projects and case studies.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <!-- Visitors -->
 ![Visitors](https://komarev.com/ghpvc/?username=pederseo-dev&style=for-the-badge&color=0A66C2)
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pederseo-dev&show_icons=true&theme=radical&hide_border=true)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pederseo-dev&layout=compact&theme=radical&hide_border=true)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=pederseo-dev&theme=radical&hide_border=true)
+[![Followers](https://img.shields.io/github/followers/pederseo-dev?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pederseo-dev?tab=followers)
+[![Stars](https://img.shields.io/github/stars/pederseo-dev?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pederseo-dev?tab=stars)
 
 </div>
